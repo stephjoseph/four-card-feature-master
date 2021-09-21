@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Poppins", sans-serif !important;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #4c4e61 !important;
+}
+
+h2 span {
+  font-weight: 200;
+}
+
+.component-head p {
+  font-size: 1.1rem;
+  color: #a3a5ae !important;
+}
+
+h3 {
+  font-weight: 600;
+  color: #4c4e61;
+}
+
+p.card-p {
+  color: #a3a5ae !important;
+}
+
+.supervisor {
+  border-top: solid 5px #45d3d3 !important;
+  border-radius: 10px !important;
+}
+
+.team-builder {
+  border-top: solid 5px #ea5353 !important;
+  border-radius: 10px !important;
+}
+
+.karma {
+  border-top: solid 5px #fcaf4a !important;
+  border-radius: 10px !important;
+}
+
+.calculator {
+  border-top: solid 5px #549ef2 !important;
+  border-radius: 10px !important;
+}

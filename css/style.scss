@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+
+//Global Styles
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Poppins", sans-serif !important;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: hsl(234, 12%, 34%) !important;
+
+  span {
+    font-weight: 200;
+  }
+}
+
+.component-head {
+  p {
+    font-size: 1.1rem;
+    color: hsl(229, 6%, 66%) !important;
+  }
+}
+
+h3 {
+  font-weight: 600;
+  color: hsl(234, 12%, 34%);
+}
+
+p.card-p {
+  color: hsl(229, 6%, 66%) !important;
+}
+
+.supervisor {
+  border-top: solid 5px hsl(180, 62%, 55%) !important;
+  border-radius: 10px !important;
+}
+
+.team-builder {
+  border-top: solid 5px hsl(0, 78%, 62%) !important;
+  border-radius: 10px !important;
+}
+
+.karma {
+  border-top: solid 5px hsl(34, 97%, 64%) !important;
+  border-radius: 10px !important;
+}
+
+.calculator {
+  border-top: solid 5px hsl(212, 86%, 64%) !important;
+  border-radius: 10px !important;
+}
